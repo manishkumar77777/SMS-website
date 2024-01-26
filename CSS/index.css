@@ -4,10 +4,10 @@ h1 {
     color: rgb(18, 18, 17);
     border: solid 3px gold;
     top: 50px;
-    width: 100%;
+    width: 80%;
     margin: 0 auto;
     border-radius: 15px;
-    padding: 70px;
+    padding: 50px;
     background-color: silver;
     text-transform: uppercase;
     letter-spacing: 0.3em;
