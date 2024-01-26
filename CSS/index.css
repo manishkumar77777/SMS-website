@@ -14,6 +14,7 @@ h1 {
     font-size: 4em;
     font-family: Arial, Calibri, sans-serif;
     opacity: 80%;
+   --webkit-text-size-adjust:100%;
     }
       
 
