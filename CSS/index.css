@@ -12,7 +12,7 @@ h1 {
     text-transform: uppercase;
     letter-spacing: 0.3em;
     font-size: 4em;
-    font-family: Arial, Calibri, sans-serif;
+    font-family: 'Times New Roman', Times, serif;
     opacity: 80%;
    --webkit-text-size-adjust:100%;
     }
@@ -51,7 +51,7 @@ html {
     text-align: center;
     background-image: url("https://iili.io/JYWTCn2.webp"  );
     background-repeat: no-repeat;
-    background-color: rgb(250, 228, 240);
+    background-color: rgb(247, 241, 244);
     background-size: cover;   
 }
 
