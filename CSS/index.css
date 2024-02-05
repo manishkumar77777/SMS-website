@@ -1,12 +1,12 @@
 
 h1 {
    
-    color: rgb(18, 18, 17);
+    color: red;
     border: solid 3px gold;
     top: 50px;
     width: 80%;
     margin: 0 auto;
-    border-radius: 15px;
+    border-radius: 200px;
     padding: 50px;
     background-color: silver;
     text-transform: uppercase;
@@ -27,7 +27,7 @@ p {
     top: 30px;
     width: 60%;
     margin: 0 auto;
-    border-radius: 15px;
+    border-radius: 200px;
     padding: 20px;
     line-height: 1.5;
     word-spacing: 0.25em;
@@ -86,7 +86,7 @@ nav {
   }
 
   a {
-    color: rgb(7, 0, 0);
+    color: orange;
     text-transform: uppercase;
     list-style: none;
   }
